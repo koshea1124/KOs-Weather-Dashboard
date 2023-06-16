@@ -1,0 +1,27 @@
+header {
+    color: white;
+    text-align: center;
+    font-size: 1.5rem; 
+    justify-content: center; 
+    align-items: center; 
+    background: linear-gradient(90deg, #DEB841, #DE9E36, #37323E, #6D6A75, #BFBDC1);
+    border: 3px solid #37323E; 
+    text-align: center; 
+    box-shadow: 0 0 10px #37323E; 
+    }
+
+body {
+    background-color: #BFBDC1;
+    }
+
+.card {
+    background-color: #37323E !important;
+}
+
+.btn {
+    background-color: #DE9E36 !important;
+}
+
+h4 {
+    color: #37323E;
+}
